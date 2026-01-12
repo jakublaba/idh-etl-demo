@@ -1,0 +1,8 @@
+.idea/**
+.venv/**
+.astro/**
+.env
+*.json
+.duckdb/**
+data/**
+
